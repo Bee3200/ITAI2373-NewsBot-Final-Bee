@@ -5,7 +5,7 @@ Final Project — NewsBot Intelligence System 2.0 (ITAI 2373) — Solo
 
 **Course:** ITAI 2373  
 **Project:** NewsBot Intelligence System 2.0 — Solo  
-**Submitter:** USER (solo)  
+**Submitter:** Bryan T (solo)  
 **Repository URL:** (this page)  
 **Submission Tag:** v1.0.0
 
